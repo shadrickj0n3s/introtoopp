@@ -1,6 +1,8 @@
 
 //XYZ bank atm interface
-//Author: David Russell
+/*Author:   David Russell
+            Shadrick Jones
+*/
 /*
 ==================================
 ==================================
